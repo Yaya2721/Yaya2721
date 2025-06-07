@@ -1,9 +1,17 @@
 # ¡Hola! 👋 Soy Yahaira Iveth Ramírez Matamoros
 
 🎓 Ingeniera en Ciencias de la Computación  
-💼 Desarrolladora en Sistemas con experiencia en sistemas empresariales  
+💼 Desarrolladora en Sistemas con experiencia en sectores industriales, municipales, cooperativos y comerciales  
+🛠️ He trabajado en el desarrollo y mantenimiento de sistemas empresariales completos, incluyendo:
+- Módulos de **producción, logística, contabilidad, talento humano y facturación**  
+- Sistemas para **auditoría, compras, inventario y marcajes de empleados**
+- Secciones en la web para **gestión de permisos municipales abiertos a la ciudadanía**
+- Adaptación de soluciones para **cooperativas y maquilas**  
+🔄 Amplia experiencia con bases de datos SQL Server, Visual FoxPro, Visual Basic, y Laravel  
+🌍 Soporte y desarrollo para usuarios en Honduras, Guatemala, Estados Unidos y China  
 📍 Honduras | 33 años  
 📧 yiramirez2022@gmail.com  
+
 
 ---
 
@@ -60,13 +68,16 @@ Actualmente reforzando mis habilidades en tecnologías modernas mediante cursos 
 
 ---
 
-### 💼 Grupo de Empresas Ceibon S.A / Capa S.A  
+### 💼 Grupo de Empresas Petralex / Ceibon S.A / Capa S.A  
 📅 Ene 2015 – Mar 2021  
 **Puesto:** Desarrolladora de Sistemas  
-- Desarrollo en Visual FoxPro  
+- Desarrollo en Visual FoxPro para producción, contabilidad, planillas y módulos de talento humano, coopérativa. 
 - Manejo de bases de datos SQL Server 
 - Desarrollo para sistemas de producción y corporativo
-- Adaptación de etiquetas ZPL dentro del sistema 
+- Adaptación de etiquetas ZPL dentro del sistema
+- Soporte interno de usuarios  
+- Administración de acceso a internet con Fortinet: gestión de navegación por perfil y control de contraseñas Wi-Fi  
+- Configuración de permisos de carpetas compartidas en red mediante FortiClient y acceso a servidores internos
 
 ---
 
