@@ -90,7 +90,21 @@ Actualmente reforzando mis habilidades en tecnologías modernas mediante cursos 
 
 ## 📌 Proyectos
 
-🔸 (Aquí irán tus repositorios de GitHub cuando los subamos)
+🔒 Por políticas de confidencialidad, no puedo compartir públicamente los proyectos en los que he trabajado, ya que pertenecen a entornos internos y privados de las empresas.
+
+Sin embargo, he desarrollado soluciones reales y robustas en distintos sectores:
+
+- 🏭 **Área industrial (maquilas):**  
+  Desarrollo de sistemas con **Visual FoxPro**, incluyendo integración de **impresión ZPL** para etiquetas y procesos de producción y sistemas corporativos.
+
+- 🏢 **Área municipal (alcaldías):**  
+  Desarrollo web con **Laravel** y **MySQL** como parte de un equipo de **outsourcing internacional** (empresa guatemalteca), atendiendo usuarios de **Guatemala y Honduras**.
+
+- 🛒 **Área comercial y ventas:**  
+  Desarrollo de sistemas administrativos y operativos usando **Visual Basic** y **SQL Server**, con gestión de tareas en **ClickUp**.
+
+🗣️ A lo largo de mi carrera he brindado soporte y soluciones a usuarios en:
+- **Honduras, Guatemala, Estados Unidos y China**, en entornos multiempresa y multilingüe.
 
 ---
 
