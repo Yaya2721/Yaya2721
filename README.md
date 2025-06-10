@@ -17,19 +17,24 @@
 
 ## 🛠️ Tecnologías que manejo
 
+**Lenguajes y frameworks:**
 - Visual Basic
-- ZPL (para etiquetas, adaptado en sistemas Visual Basic)
-- SQL Server
-- Visual Studio Code
 - Laravel
 - JavaScript (uso básico con Laravel)
-- MySQL
 - Visual FoxPro
-- ZPL (para etiquetas, adaptado en sistemas FoxPro)
-- ClickUp
-- Asana (uso parcial en gestión de tareas)
-- GitHub (conocimientos básicos)
 
+**Bases de datos:**
+- SQL Server
+- MySQL
+
+**Herramientas y control de versiones:**
+- Visual Studio Code
+- ClickUp
+- GitHub (conocimientos básicos)
+- Asana (uso parcial en gestión de tareas)
+- ZPL (integración de impresión en sistemas internos en Foxpro y VisualBasic)
+- BarTender
+- 
 ---
 
 ## 📚 En formación continua
@@ -50,18 +55,18 @@ Actualmente reforzando mis habilidades en tecnologías modernas mediante cursos 
 ### 👩‍💻 Grupo Rosy Inversiones Castell  
 📅 Feb 2022 – Ago 2025  
 **Puesto:** Desarrolladora en Sistemas  
-- Desarrollo de sistemas usando Visual Basic  
-- Manejo de bases de datos SQL Server  
+- Desarrolladora en Sistemas  
+- Desarrollo de sistemas en Visual Basic  
+- Bases de datos SQL Server
 - Control de tareas/proyectos con ClickUp  
-- Herramientas: Visual Studio Code, GitHub básico
+- Uso de GitHub y Visual Studio Code
 
 ---
 
 ### 💼 DHV Consultans Guatemala S.A  
 📅 Mar 2021 – Ene 2022  
 **Puesto:** Desarrolladora de Sistemas  
-- Desarrollo con Laravel
-- Uso básico de JavaScript en proyectos Laravel 
+- Desarrollo con Laravel y JavaScript 
 - Manejo de bases de datos SQL Server y MySQL
 - Control de tareas/proyectos con ClickUp
 - Uso parcial de Asana como herramienta de organización en previsualizacion de proyectos 
@@ -121,5 +126,5 @@ Sin embargo, he desarrollado soluciones reales y robustas en distintos sectores:
 
 ## 🌐 Conectemos
 
-📧 yiramirez2022@gmail.com  
-🌐 [Pronto: tu portafolio web personal]
+📧 yiramirez2022@gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/yahaira-ramirez-99677036a
